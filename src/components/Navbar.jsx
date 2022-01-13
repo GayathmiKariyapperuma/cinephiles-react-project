@@ -1,6 +1,6 @@
 import React from "react";
 import "./navbar.css";
-import { GiFilmSpool } from "react-icons";
+import { GiFilmSpool } from "react-icons/gi";
 import { Link } from "react-router-dom";
 
 function Navbar() {
