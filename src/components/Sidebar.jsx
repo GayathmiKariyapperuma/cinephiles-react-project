@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./sidebar.css";
 import { GiFilmStrip } from "react-icons/gi";
+import { BsGlobe, BsStarFill } from "react-icons/bs";
+import { ImCalendar } from "react-icons/im";
 
 function Sidebar() {
   return (
@@ -15,7 +17,7 @@ function Sidebar() {
         </span>
       </button>
       <button>
-        <GiFilmStrip />
+        <BsGlobe />
         <span>
           <Link className="navigationLink" to="/genre">
             Language
@@ -23,7 +25,7 @@ function Sidebar() {
         </span>
       </button>
       <button>
-        <GiFilmStrip />
+        <BsStarFill />
         <span>
           <Link className="navigationLink" to="/genre">
             Ratings
@@ -31,7 +33,7 @@ function Sidebar() {
         </span>
       </button>
       <button>
-        <GiFilmStrip />
+        <ImCalendar />
         <span>
           <Link className="navigationLink" to="/genre">
             Year
