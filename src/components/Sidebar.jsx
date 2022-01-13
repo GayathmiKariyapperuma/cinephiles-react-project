@@ -9,7 +9,7 @@ function Sidebar() {
       <button>
         <GiFilmStrip />
         <span>
-          <Link className="navigationLink" to="/get-help">
+          <Link className="navigationLink" to="/genre">
             Genre
           </Link>
         </span>
