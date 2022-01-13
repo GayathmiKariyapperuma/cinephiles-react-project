@@ -1,21 +1,14 @@
 import React from "react";
 import "./sidebar.css";
+import { GiFilmStrip } from "react-icons/gi";
 import { FaMusic } from "react-icons/fa";
+import { BsPersonBoundingBox } from "react-icons/bs";
 
 function Sidebar() {
   return (
     <div className="sidebar">
       <button>
-        <FaMusic /> <span>Musical</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Amazon</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Amazon</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Amazon</span>
+        <GiFilmStrip /> <span>Genre</span>
       </button>
     </div>
   );
