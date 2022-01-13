@@ -1,11 +1,10 @@
 import React from "react";
-import { GiFilmStrip } from "react-icons/gi";
 import { FaMusic } from "react-icons/fa";
 import { BsPersonBoundingBox } from "react-icons/bs";
 
 function Genre() {
   return (
-    <div className="sidebar">
+    <div className="genre">
       <button>
         <FaMusic /> <span>Musical</span>
       </button>
