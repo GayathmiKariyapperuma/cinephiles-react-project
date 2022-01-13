@@ -1,14 +1,18 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./sidebar.css";
 import { GiFilmStrip } from "react-icons/gi";
-import { FaMusic } from "react-icons/fa";
-import { BsPersonBoundingBox } from "react-icons/bs";
 
 function Sidebar() {
   return (
     <div className="sidebar">
       <button>
-        <GiFilmStrip /> <span>Genre</span>
+        <GiFilmStrip />
+        <span>
+          <Link className="navigationLink" to="/get-help">
+            Genre
+          </Link>
+        </span>
       </button>
     </div>
   );

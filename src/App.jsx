@@ -9,6 +9,7 @@ import Sidebar from "./components/Sidebar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import GetHelp from "./pages/GetHelp";
+import Genre from "./pages/Genre";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-help" element={<GetHelp />} />
+            <Route path="/genre" element={<Genre />} />
           </Routes>
         </div>
       </div>
