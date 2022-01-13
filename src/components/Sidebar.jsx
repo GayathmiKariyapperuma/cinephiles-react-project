@@ -14,6 +14,30 @@ function Sidebar() {
           </Link>
         </span>
       </button>
+      <button>
+        <GiFilmStrip />
+        <span>
+          <Link className="navigationLink" to="/genre">
+            Language
+          </Link>
+        </span>
+      </button>
+      <button>
+        <GiFilmStrip />
+        <span>
+          <Link className="navigationLink" to="/genre">
+            Ratings
+          </Link>
+        </span>
+      </button>
+      <button>
+        <GiFilmStrip />
+        <span>
+          <Link className="navigationLink" to="/genre">
+            Year
+          </Link>
+        </span>
+      </button>
     </div>
   );
 }
