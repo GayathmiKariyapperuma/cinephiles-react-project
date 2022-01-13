@@ -1,10 +1,31 @@
 import "./styles.css";
+import { Route, Routes } from "react-router-dom";
 
-export default function App() {
+// components
+import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
+
+//pages
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
+import GetHelp from "./pages/GetHelp";
+
+function App() {
   return (
-    <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
-    </div>
+    <>
+      <Navbar />
+      <div className="container">
+        <Sidebar />
+        <div className="mainContainer">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/get-help" element={<GetHelp />} />
+          </Routes>
+        </div>
+      </div>
+    </>
   );
 }
+
+export default App;
