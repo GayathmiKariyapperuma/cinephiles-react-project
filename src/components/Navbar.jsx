@@ -7,6 +7,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <GiFilmSpool className="webLogo" />
+      <h1 className="webName">Cinephiles</h1>
       <div className="links">
         <Link className="navigationLink" to="/">
           Home
