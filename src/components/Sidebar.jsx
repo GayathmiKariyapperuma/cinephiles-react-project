@@ -11,7 +11,7 @@ function Sidebar() {
       <button>
         <GiFilmStrip />
         <span>
-          <Link className="navigationLink" to="/genre">
+          <Link className="sideLink" to="/genre">
             Genre
           </Link>
         </span>
@@ -19,7 +19,7 @@ function Sidebar() {
       <button>
         <BsGlobe />
         <span>
-          <Link className="navigationLink" to="/genre">
+          <Link className="sideLink" to="/genre">
             Language
           </Link>
         </span>
@@ -27,7 +27,7 @@ function Sidebar() {
       <button>
         <BsStarFill />
         <span>
-          <Link className="navigationLink" to="/genre">
+          <Link className="sideLink" to="/genre">
             Ratings
           </Link>
         </span>
@@ -35,7 +35,7 @@ function Sidebar() {
       <button>
         <ImCalendar />
         <span>
-          <Link className="navigationLink" to="/genre">
+          <Link className="sideLink" to="/genre">
             Year
           </Link>
         </span>
