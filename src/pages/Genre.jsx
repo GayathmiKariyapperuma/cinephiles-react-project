@@ -7,9 +7,9 @@ function Genre() {
     <div class="row">
       <div class="column">
         <div class="card">
-          <img src="/w3images/team1.jpg" alt="Jane" />
-          <div class="container">
-            <h2>Jane Doe</h2>
+          <img src="./images/40860889.jpg" alt="Action" />
+          <div class="cContainer">
+            <h2>Action</h2>
             <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
             <p>example@example.com</p>
