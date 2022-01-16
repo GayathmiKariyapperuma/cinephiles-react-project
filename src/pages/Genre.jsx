@@ -7,14 +7,16 @@ function Genre() {
     <div class="row">
       <div class="column">
         <div class="card">
-          <img src="./images/40860889.jpg" alt="Action" />
+          <img
+            src="https://cdn1.vectorstock.com/i/thumb-large/06/80/action-adventure-literature-glyph-icon-vector-40860680.jpg"
+            alt="Action"
+            width="308px"
+            height="250px"
+          />
           <div class="cContainer">
-            <h2>Action</h2>
-            <p class="title">CEO & Founder</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>example@example.com</p>
+            <h2>Action / Adventure</h2>
             <p>
-              <button class="button">Contact</button>
+              <button class="button">Visit</button>
             </p>
           </div>
         </div>
