@@ -36,11 +36,9 @@ body {
   padding: 0 8px;
 }
 
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
+.column {
+  width: 324px;
+  display: block;
 }
 
 .card {
