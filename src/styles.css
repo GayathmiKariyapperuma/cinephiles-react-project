@@ -48,6 +48,7 @@ body {
 
 .cContainer {
   padding: 0 16px;
+  text-align: center;
 }
 
 .cContainer::after,
