@@ -108,13 +108,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
-            alt="Horror"
+            src="https://cdn1.vectorstock.com/i/thumb-large/06/70/crime-literature-glyph-icon-vector-40860670.jpg"
+            alt="Crime"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Horror</h2>
+            <h2>Crime</h2>
             <p>
               <button class="button">Visit</button>
             </p>
