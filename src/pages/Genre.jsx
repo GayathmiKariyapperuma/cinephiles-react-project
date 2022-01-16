@@ -1,6 +1,4 @@
 import React from "react";
-import { FaMusic } from "react-icons/fa";
-import { BsPersonBoundingBox } from "react-icons/bs";
 
 function Genre() {
   return (
