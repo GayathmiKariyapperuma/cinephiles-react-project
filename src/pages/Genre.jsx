@@ -10,8 +10,8 @@ function Genre() {
           <img
             src="https://cdn1.vectorstock.com/i/thumb-large/06/80/action-adventure-literature-glyph-icon-vector-40860680.jpg"
             alt="Action"
-            width="308px"
-            height="250px"
+            width="234px"
+            height="190px"
           />
           <div class="cContainer">
             <h2>Action / Adventure</h2>
@@ -21,60 +21,91 @@ function Genre() {
           </div>
         </div>
       </div>
-      <button>
-        <FaMusic /> <span>Musical</span>
-      </button>
-      <button>
-        <BsPersonBoundingBox /> <span>Biography</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Fantacy</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Family</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Drama</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Sport</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Western</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Mystery</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Thriller</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Horror</span>
-      </button>
-      <button>
-        <FaMusic /> <span>War</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Action</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Comedy</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Sci-Fi</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Romance</span>
-      </button>
-      <button>
-        <FaMusic /> <span>History</span>
-      </button>
-      <button>
-        <FaMusic /> <span>Documentary</span>
-      </button>
-      <button>
-        <FaMusic /> <span>TV-Series</span>
-      </button>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn5.vectorstock.com/i/thumb-large/06/79/science-fiction-literature-glyph-icon-vector-40860679.jpg"
+            alt="Sci-Fi"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Sci-Fi</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
+            alt="Fantacy"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Fantacy</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
+            alt="Fantacy"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Fantacy</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
+            alt="Fantacy"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Fantacy</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
+            alt="Fantacy"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Fantacy</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
