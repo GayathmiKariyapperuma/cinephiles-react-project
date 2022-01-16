@@ -57,13 +57,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
-            alt="Fantacy"
+            src="https://cdn2.vectorstock.com/i/thumb-large/06/76/suspense-thriller-literature-glyph-icon-vector-40860676.jpg"
+            alt="Thriller"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Fantacy</h2>
+            <h2>Thriller</h2>
             <p>
               <button class="button">Visit</button>
             </p>
@@ -74,13 +74,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
-            alt="Fantacy"
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            alt="Horror"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Fantacy</h2>
+            <h2>Horror</h2>
             <p>
               <button class="button">Visit</button>
             </p>
@@ -91,13 +91,81 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
-            alt="Fantacy"
+            src="https://cdn3.vectorstock.com/i/thumb-large/06/72/mystery-literature-glyph-icon-vector-40860672.jpg"
+            alt="Mystery"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Fantacy</h2>
+            <h2>Mystery</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            alt="Horror"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Horror</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            alt="Horror"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Horror</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            alt="Horror"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Horror</h2>
+            <p>
+              <button class="button">Visit</button>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+          <img
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            alt="Horror"
+            width="234px"
+            height="190px"
+          />
+          <div class="cContainer">
+            <h2>Horror</h2>
             <p>
               <button class="button">Visit</button>
             </p>
