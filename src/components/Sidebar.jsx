@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./sidebar.css";
 import { GiFilmStrip } from "react-icons/gi";
-import { BsGlobe, BsStarFill } from "react-icons/bs";
-import { ImCalendar } from "react-icons/im";
+import { SiImdb } from "react-icons/si";
+import { BsTv, BsCameraReelsFill } from "react-icons/bs";
 
 function Sidebar() {
   return (
@@ -17,26 +17,26 @@ function Sidebar() {
         </span>
       </button>
       <button>
-        <BsGlobe />
+        <SiImdb />
         <span>
           <Link className="sideLink" to="/genre">
-            Language
+            Top 50
           </Link>
         </span>
       </button>
       <button>
-        <BsStarFill />
+        <BsTv />
         <span>
           <Link className="sideLink" to="/genre">
-            Ratings
+            TV Series
           </Link>
         </span>
       </button>
       <button>
-        <ImCalendar />
+        <BsCameraReelsFill />
         <span>
           <Link className="sideLink" to="/genre">
-            Year
+            Best Films
           </Link>
         </span>
       </button>
