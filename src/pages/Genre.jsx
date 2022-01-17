@@ -125,13 +125,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
-            alt="Horror"
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/68/historical-literature-glyph-icon-vector-40860668.jpg"
+            alt="Historical"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Horror</h2>
+            <h2>History</h2>
             <p>
               <button class="button">Visit</button>
             </p>
@@ -142,13 +142,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
-            alt="Horror"
+            src="https://cdn3.vectorstock.com/i/thumb-large/06/67/western-literature-glyph-icon-vector-40860667.jpg"
+            alt="Western"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Horror</h2>
+            <h2>Western</h2>
             <p>
               <button class="button">Visit</button>
             </p>
@@ -159,13 +159,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
-            alt="Horror"
+            src="https://cdn4.vectorstock.com/i/thumb-large/06/63/romance-literature-glyph-icon-vector-40860663.jpg"
+            alt="Romance"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Horror</h2>
+            <h2>Romance</h2>
             <p>
               <button class="button">Visit</button>
             </p>
