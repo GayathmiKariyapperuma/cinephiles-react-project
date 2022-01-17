@@ -19,7 +19,7 @@ function Sidebar() {
       <button>
         <SiImdb />
         <span>
-          <Link className="sideLink" to="/genre">
+          <Link className="sideLink" to="/top-50">
             Top 50
           </Link>
         </span>
@@ -27,7 +27,7 @@ function Sidebar() {
       <button>
         <BsTv />
         <span>
-          <Link className="sideLink" to="/genre">
+          <Link className="sideLink" to="/tv-series">
             TV Series
           </Link>
         </span>
@@ -35,7 +35,7 @@ function Sidebar() {
       <button>
         <BsCameraReelsFill />
         <span>
-          <Link className="sideLink" to="/genre">
+          <Link className="sideLink" to="/best-picture">
             Best Films
           </Link>
         </span>
