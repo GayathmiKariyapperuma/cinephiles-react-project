@@ -10,6 +10,9 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import GetHelp from "./pages/GetHelp";
 import Genre from "./pages/Genre";
+import Top50 from "./pages/Top50";
+import TVSeries from "./pages/TVSeries";
+import BestFilms from "./pages/BestFilms";
 
 function App() {
   return (
@@ -23,6 +26,9 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-help" element={<GetHelp />} />
             <Route path="/genre" element={<Genre />} />
+            <Route path="/top-50" element={<Top50 />} />
+            <Route path="/tv-series" element={<TVSeries />} />
+            <Route path="/best-films" element={<BestFilms />} />
           </Routes>
         </div>
       </div>
