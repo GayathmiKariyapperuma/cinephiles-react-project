@@ -30,3 +30,11 @@
   border: none;
   text-decoration: none;
 }
+
+.footer {
+  top: 56%;
+  position: relative;
+  color: white;
+  font-size: 11px;
+  font-family: sans-serif;
+}

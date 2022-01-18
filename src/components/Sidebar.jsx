@@ -4,6 +4,7 @@ import "./sidebar.css";
 import { GiFilmStrip } from "react-icons/gi";
 import { SiImdb } from "react-icons/si";
 import { BsTv, BsCameraReelsFill } from "react-icons/bs";
+import { AiOutlineCopyrightCircle } from "react-icons/ai";
 
 function Sidebar() {
   return (
@@ -40,6 +41,10 @@ function Sidebar() {
           </Link>
         </span>
       </button>
+      <div className="footer">
+        <AiOutlineCopyrightCircle />
+        Cinephiles
+      </div>
     </div>
   );
 }
