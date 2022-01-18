@@ -6,11 +6,10 @@
   flex-direction: column;
   gap: 1rem;
   position: sticky;
-  top: 2rem;
+  height: 90vh;
 }
 
 .sidebar button {
-  position: sticky;
   top: 2rem;
   padding-top: 2rem;
   font-size: 18px;
