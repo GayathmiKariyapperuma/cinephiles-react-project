@@ -42,8 +42,9 @@ function Sidebar() {
         </span>
       </button>
       <div className="footer">
+        Copyright
         <AiOutlineCopyrightCircle />
-        Cinephiles
+        Cinephiles 2022
       </div>
     </div>
   );
