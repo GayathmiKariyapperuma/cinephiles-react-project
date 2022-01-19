@@ -32,6 +32,8 @@
 }
 
 .footer {
+  text-align: center;
+  top: 110px;
   position: relative;
   color: white;
   font-size: 11px;
