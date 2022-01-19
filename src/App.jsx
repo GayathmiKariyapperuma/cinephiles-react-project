@@ -25,7 +25,7 @@ function App() {
             <Route path="/genre" element={<Genre />} />
             <Route path="/top-50" element={<Top50 />} />
             <Route path="/tv-series" element={<TVSeries />} />
-            <Route path="/best-films" element={<BestFilms />} />
+            <Route path="/best-picture" element={<BestFilms />} />
           </Routes>
         </div>
       </div>
