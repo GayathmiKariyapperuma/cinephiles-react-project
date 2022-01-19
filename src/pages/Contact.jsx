@@ -4,8 +4,8 @@ function Contact() {
   return (
     <div>
       <h1>Contact Us</h1>
-      We'd love to hear from you
-      <div className="ContactContainer">
+      We'd love to hear from you <br />
+      <div className="contactContainer">
         <form>
           <div class="info">
             <input
@@ -14,14 +14,18 @@ function Contact() {
               name="name"
               placeholder="Full name"
             />
+            <br />
+            <br />
             <input type="text" name="name" placeholder="Email" />
+            <br />
+            <br />
             <input type="text" name="name" placeholder="Phone number" />
           </div>
           <p>Message</p>
           <div>
             <textarea rows="4"></textarea>
           </div>
-          <button type="submit" href="/">
+          <button className="formButton" type="submit" href="/">
             Submit
           </button>
         </form>
