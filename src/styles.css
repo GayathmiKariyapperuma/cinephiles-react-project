@@ -164,3 +164,26 @@ input::placeholder {
 .formButton:hover {
   background: #5c1c04;
 }
+
+.contactContainer1 {
+  float: right;
+  background-color: #220901;
+  color: white;
+  padding: 30px;
+}
+
+.contactText {
+  text-align: center;
+}
+
+.icon1 {
+  font-size: 3rem;
+}
+
+.icon2 {
+  font-size: 2rem;
+}
+
+.icon3 {
+  font-size: 2rem;
+}

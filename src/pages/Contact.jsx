@@ -1,5 +1,8 @@
 import React from "react";
 import { GrContact } from "react-icons/gr";
+import { GiSmartphone } from "react-icons/gi";
+import { BsEnvelope } from "react-icons/bs";
+import { MdOutlineAlternateEmail } from "react-icons/md";
 
 function Contact() {
   return (
@@ -30,6 +33,19 @@ function Contact() {
             Submit
           </button>
         </form>
+      </div>
+      <div className="contactContainer1">
+        <div className="contactText">
+          <GiSmartphone className="icon1" /> <br />
+          (+94)75 2784122 / (+94)332234715 <br />
+          <br />
+          <BsEnvelope className="icon2" /> <br />
+          No:182, Ihalagama, Gampaha, Sri Lanka <br />
+          <br />
+          <MdOutlineAlternateEmail className="icon3" /> <br />
+          gayathmikariyapperuma@gmail.com <br />
+          <br />
+        </div>
       </div>
     </div>
   );
