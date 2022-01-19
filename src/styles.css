@@ -113,3 +113,15 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.topColumn {
+  float: left;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.topRow::after {
+  content: "";
+  clear: both;
+  display: table;
+}
