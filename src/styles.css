@@ -19,7 +19,7 @@ body {
   flex: 4;
   padding: 1rem;
   color: white;
-  background-color: #bc3908;
+  background-color: #6a040f;
 }
 
 /*
@@ -118,6 +118,7 @@ body {
 .topColumn {
   float: left;
   padding: 28px;
+  background-color: #bc3908;
 }
 
 /* Clearfix (clear floats) */
