@@ -9,7 +9,7 @@ import { AiOutlineCopyrightCircle } from "react-icons/ai";
 function Sidebar() {
   return (
     <div className="sidebar">
-      <button>
+      <button style={{ top: "15%" }}>
         <GiFilmStrip />
         <span>
           <Link className="sideLink" to="/genre">
@@ -17,7 +17,7 @@ function Sidebar() {
           </Link>
         </span>
       </button>
-      <button>
+      <button style={{ top: "25%" }}>
         <SiImdb />
         <span>
           <Link className="sideLink" to="/top-50">
@@ -25,7 +25,7 @@ function Sidebar() {
           </Link>
         </span>
       </button>
-      <button>
+      <button style={{ top: "35%" }}>
         <BsTv />
         <span>
           <Link className="sideLink" to="/tv-series">
@@ -33,7 +33,7 @@ function Sidebar() {
           </Link>
         </span>
       </button>
-      <button>
+      <button style={{ top: "45%" }}>
         <BsCameraReelsFill />
         <span>
           <Link className="sideLink" to="/best-picture">
