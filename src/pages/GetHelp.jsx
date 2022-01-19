@@ -1,14 +1,16 @@
 import React from "react";
 import { MdLiveHelp } from "react-icons/md";
+import SearchField from "react-search-field";
 
 function GetHelp() {
   return (
     <div className="helpContainer">
-      <h1>
-        <center>
+      <center>
+        <h1>
           <MdLiveHelp /> Need some help? <MdLiveHelp />{" "}
-        </center>
-      </h1>
+        </h1>
+        <SearchField placeholder="Search item" />
+      </center>
     </div>
   );
 }
