@@ -41,6 +41,15 @@ function Sidebar() {
           </Link>
         </span>
       </button>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <br />
+      <br />
       <div className="footer">
         Copyright
         <AiOutlineCopyrightCircle />
