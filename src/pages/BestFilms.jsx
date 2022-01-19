@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function BestFilms() {
   return (
@@ -20,7 +21,12 @@ function BestFilms() {
                   Nomadland (2020) <br />
                   <br /> IMDb 7.3
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt9770150/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -41,7 +47,12 @@ function BestFilms() {
                   Parasite (2019) <br />
                   <br /> IMDb 8.6
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt6751668/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -62,7 +73,12 @@ function BestFilms() {
                   Green Book (2018) <br />
                   <br /> IMDb 8.2
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt6966692/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -83,7 +99,12 @@ function BestFilms() {
                   The Shape of Water (2017) <br />
                   <br /> IMDb 7.3
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt5580390/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -104,7 +125,12 @@ function BestFilms() {
                   Moonlight (2016) <br />
                   <br /> IMDb 7.4
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt4975722/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -125,7 +151,12 @@ function BestFilms() {
                   Spotlight (2015) <br />
                   <br /> IMDb 8.1
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt1895587/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -146,7 +177,12 @@ function BestFilms() {
                   Birdman or (The Unexpected Virtue of Ignorance) (2014) <br />
                   <br /> IMDb 7.7
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt2562232/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -167,7 +203,12 @@ function BestFilms() {
                   12 Years a Slave (2013) <br />
                   <br /> IMDb 8.1
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt2024544/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -188,7 +229,12 @@ function BestFilms() {
                   Argo (2012) <br />
                   <br /> IMDb 7.7
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt1024648/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
@@ -209,7 +255,12 @@ function BestFilms() {
                   The Artist (2011) <br />
                   <br /> IMDb 7.9
                 </p>
-                <button class="button">View Details</button>
+                <Link
+                  class="buttonLink"
+                  to="https://www.imdb.com/title/tt1655442/"
+                >
+                  View Details
+                </Link>
               </div>
             </div>
           </div>
