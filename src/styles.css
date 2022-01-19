@@ -119,3 +119,7 @@ body {
   clear: both;
   display: table;
 }
+
+.helpContainer {
+  background-color: #bc3908;
+}

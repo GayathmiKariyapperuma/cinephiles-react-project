@@ -1,10 +1,15 @@
 import React from "react";
+import { MdLiveHelp } from "react-icons/md";
 
 function GetHelp() {
   return (
-    <>
-      <h1>Get help page</h1>
-    </>
+    <div className="helpContainer">
+      <h1>
+        <center>
+          <MdLiveHelp /> Need some help? <MdLiveHelp />{" "}
+        </center>
+      </h1>
+    </div>
   );
 }
 
