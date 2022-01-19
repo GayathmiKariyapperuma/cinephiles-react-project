@@ -8,7 +8,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://lumiere-a.akamaihd.net/v1/images/pp_nomadland_20985_eb18bd46.jpeg"
               alt="Movie Poster"
               class="image"
             />
@@ -29,7 +29,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/5a4488a6ace864a5558b6738/1575653762434-4HIFKWKBP8W893A50I95/p16965677_v_v8_aa.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -50,7 +50,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://movies.universalpictures.com/media/gbk-tsr1sheet-rgb-3sm-5b7308033d1a5-1.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -71,7 +71,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -92,7 +92,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -113,7 +113,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://m.media-amazon.com/images/I/81FQRdN+D5L._AC_SY679_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -134,7 +134,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f8ca897-7ada-4a3a-aad6-6ec6b44b881b/dehonsd-bfcd6a51-34cd-4e9e-b7de-a4515bc48b8a.jpg/v1/fill/w_1920,h_2640,q_75,strp/birdman_poster__bw_g__by_farbschmidt_dehonsd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY0MCIsInBhdGgiOiJcL2ZcLzVmOGNhODk3LTdhZGEtNGEzYS1hYWQ2LTZlYzZiNDRiODgxYlwvZGVob25zZC1iZmNkNmE1MS0zNGNkLTRlOWUtYjdkZS1hNDUxNWJjNDhiOGEuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Mi_xaAIApNixoctLIEYncQSwT1-CBhfgaADdCAdxFzM"
               alt="Movie Poster"
               class="image"
             />
@@ -155,7 +155,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -176,7 +176,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://movieposters2.com/images/1065114-b.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -197,7 +197,7 @@ function BestFilms() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMDUyZWU5N2UtOWFlMy00MTI0LTk0ZDYtMzFhNjljODBhZDA5XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
