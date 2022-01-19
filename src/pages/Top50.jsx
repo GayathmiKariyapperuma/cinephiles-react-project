@@ -11,7 +11,9 @@ function Top50() {
           class="image"
         />
         <div class="overlay">
-          <div class="text">Hello World</div>
+          <div class="text">
+            <button class="button">View Details</button>
+          </div>
         </div>
       </div>
     </div>
