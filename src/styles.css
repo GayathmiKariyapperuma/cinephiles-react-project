@@ -120,6 +120,54 @@ body {
   display: table;
 }
 
-.helpContainer {
-  background-color: #bc3908;
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form {
+  padding: 25px;
+  margin: 25px;
+  box-shadow: 0 2px 5px #e5a891;
+  background: #bc3908;
+}
+
+.input,
+textarea {
+  width: calc(100% - 18px);
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #1c87c9;
+  outline: none;
+}
+
+.input::placeholder {
+  color: #666;
+}
+
+.formButton {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #1c87c9;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.formButton:hover {
+  background: #2371a0;
+}
+
+@media (min-width: 568px) {
+  .main-block {
+    flex-direction: row;
+  }
+  .left-part,
+  form {
+    width: 50%;
+  }
 }
