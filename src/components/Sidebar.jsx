@@ -26,6 +26,14 @@ function Sidebar() {
         </span>
       </button>
       <button style={{ top: "35%" }}>
+        <BsTv />
+        <span>
+          <Link className="sideLink" to="/tv-series">
+            TV Series
+          </Link>
+        </span>
+      </button>
+      <button style={{ top: "45%" }}>
         <BsCameraReelsFill />
         <span>
           <Link className="sideLink" to="/best-picture">
