@@ -15,9 +15,6 @@ function Navbar() {
         <Link className="navigationLink" to="/contact">
           Contact
         </Link>
-        <Link className="navigationLink" to="/get-help">
-          Get Help
-        </Link>
       </div>
     </div>
   );
