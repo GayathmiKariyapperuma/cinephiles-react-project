@@ -1,37 +1,12 @@
-import React, { useState } from "react";
-import { Slide } from "react-slideshow-image";
+import React from "react";
 
 function Home() {
-  const [autoplay, setAutoplay] = useState(true);
-
-  const style = {
-    textAlign: "center",
-    background: "teal",
-    padding: "50px 0",
-    fontSize: "18px"
-  };
-
   return (
     <div>
-      <div>
-        <Slide autoplay={autoplay}>
-          <div style={style}>First Slide</div>
-          <div style={style}>Second Slide</div>
-          <div style={style}>Third Slide</div>
-        </Slide>
-      </div>
-
-      <div className="autoplay-buttons">
-        Autplay is {autoplay ? "on" : "off"}
-      </div>
-      <div className="autoplay-buttons">
-        <button type="button" onClick={() => setAutoplay(false)}>
-          Pause
-        </button>
-        <button type="button" onClick={() => setAutoplay(true)}>
-          Play
-        </button>
-      </div>
+      <img
+        src="https://s3-us-west-2.amazonaws.com/prd-rteditorial/wp-content/uploads/2018/03/13153742/RT_300EssentialMovies_700X250.jpg"
+        alt="bg"
+      />
     </div>
   );
 }
