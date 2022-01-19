@@ -113,7 +113,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -134,7 +134,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://www.reelviews.net/resources/img/posters/thumbs/return_of_the_king_poster.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -155,7 +155,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -176,7 +176,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://www.cinequanon.eu/wp-content/uploads/2020/12/Thegoodbadugly.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -197,7 +197,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -206,7 +206,7 @@ function Top50() {
                 <p>
                   #10 <br />
                   <br />
-                  The Lord of the Rings: The Fellowship of the Ring (2001){" "}
+                  The Lord of the Rings: The Fellowship of the Ring (2001)
                   <br /> IMDb 8.8
                 </p>
                 <button class="button">View Details</button>
@@ -218,7 +218,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -239,7 +239,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -260,7 +260,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -281,7 +281,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -302,7 +302,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -323,7 +323,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -344,7 +344,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://i.pinimg.com/originals/e8/ac/c7/e8acc7e601446c5f9ea682c3a80b0b57.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -365,7 +365,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://cdn.shopify.com/s/files/1/1057/4964/products/One-Flew-Over-the-Cuckoos-Nest-Vintage-Movie-Poster-Original-1-Sheet-27x41-88_800x.progressive.jpg?v=1634266893"
               alt="Movie Poster"
               class="image"
             />
@@ -386,7 +386,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/I/51A53YH9vuL._AC_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -407,7 +407,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -428,7 +428,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -449,7 +449,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -470,7 +470,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://prod.miramax.digital/media/assets/City-of-God1.png"
               alt="Movie Poster"
               class="image"
             />
@@ -491,7 +491,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -512,7 +512,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -533,7 +533,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -554,7 +554,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://lumiere-a.akamaihd.net/v1/images/Star-Wars-New-Hope-IV-Poster_c217085b.jpeg?region=49%2C43%2C580%2C914"
               alt="Movie Poster"
               class="image"
             />
@@ -575,7 +575,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -596,7 +596,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -617,7 +617,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -638,7 +638,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/5a4488a6ace864a5558b6738/1575653762434-4HIFKWKBP8W893A50I95/p16965677_v_v8_aa.jpg"
               alt="Movie Poster"
               class="image"
             />
@@ -659,7 +659,7 @@ function Top50() {
         <div className="topColumn">
           <div class="topContainer">
             <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+              src="https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFQLUhOcDVRc0wuX0FDX1NMMTAwMF8uanBn.jpg"
               alt="Movie Poster"
               class="image"
             />
