@@ -9,7 +9,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="The Shawshank Redemption"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -30,7 +30,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -38,8 +38,8 @@ function Top50() {
                 <p>
                   #1 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Godfather (1972) <br />
+                  <br /> IMDb 9.1
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -51,7 +51,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -72,7 +72,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -93,7 +93,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -114,7 +114,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -135,7 +135,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -156,7 +156,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -177,7 +177,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -198,7 +198,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -219,7 +219,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -240,7 +240,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -261,7 +261,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -282,7 +282,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -303,7 +303,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -324,7 +324,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -345,7 +345,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -366,7 +366,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -387,7 +387,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -408,7 +408,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -429,7 +429,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -450,7 +450,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -471,7 +471,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -492,7 +492,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -513,7 +513,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -534,7 +534,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -555,7 +555,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -576,7 +576,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -597,7 +597,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -618,7 +618,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -639,7 +639,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -660,7 +660,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -681,7 +681,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -702,7 +702,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -723,7 +723,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -744,7 +744,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -765,7 +765,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -786,7 +786,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -807,7 +807,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -828,7 +828,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -849,7 +849,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -870,7 +870,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -891,7 +891,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -912,7 +912,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -933,7 +933,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -954,7 +954,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -975,7 +975,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -996,7 +996,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -1017,7 +1017,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
@@ -1038,7 +1038,7 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="Movie Poster"
               class="image"
             />
             <div class="overlay">
