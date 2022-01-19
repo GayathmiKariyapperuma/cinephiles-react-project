@@ -1,10 +1,11 @@
 import React from "react";
+import { GrContact } from "react-icons/gr";
 
 function Contact() {
   return (
     <div>
       <h1>Contact Us</h1>
-      We'd love to hear from you <br />
+      We'd love to hear from you .... <GrContact /> <br />
       <div className="contactContainer">
         <form>
           <div class="info">
