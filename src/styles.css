@@ -114,7 +114,6 @@ body {
   background-color: #bc3908;
 }
 
-/* Clearfix (clear floats) */
 .topRow::after {
   content: "";
   clear: both;
