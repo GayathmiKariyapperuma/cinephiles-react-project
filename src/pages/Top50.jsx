@@ -207,7 +207,6 @@ function Top50() {
                   #10 <br />
                   <br />
                   The Lord of the Rings: The Fellowship of the Ring (2001){" "}
-                  <br />
                   <br /> IMDb 8.8
                 </p>
                 <button class="button">View Details</button>
