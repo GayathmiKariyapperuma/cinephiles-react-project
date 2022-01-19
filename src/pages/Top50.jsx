@@ -36,7 +36,7 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #2 <br />
                   <br />
                   The Godfather (1972) <br />
                   <br /> IMDb 9.1
@@ -57,10 +57,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #3 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Godfather Part II (1974) <br />
+                  <br /> IMDb 9.0
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -78,10 +78,31 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #4 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Dark Knight (2008) <br />
+                  <br /> IMDb 9.0
+                </p>
+                <button class="button">View Details</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="topColumn">
+          <div class="topContainer">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg"
+              alt="Movie Poster"
+              class="image"
+            />
+            <div class="overlay">
+              <div class="text">
+                <p>
+                  #5 <br />
+                  <br />
+                  12 Angry Men (1957) <br />
+                  <br /> IMDb 8.9
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -99,10 +120,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #6 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Schindler's List (1993) <br />
+                  <br /> IMDb 8.9
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -120,10 +141,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #7 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Lord of the Rings: The Return of the King (2003) <br />
+                  <br /> IMDb 8.9
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -141,10 +162,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #8 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Pulp Fiction (1994) <br />
+                  <br /> IMDb 8.8
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -162,10 +183,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #9 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Good, the Bad and the Ugly (1966) <br />
+                  <br /> IMDb 8.8
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -183,10 +204,11 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #10 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Lord of the Rings: The Fellowship of the Ring (2001){" "}
+                  <br />
+                  <br /> IMDb 8.8
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -204,10 +226,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #11 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Fight Club (1999) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -225,10 +247,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #12 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Forrest Gump (1994) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -246,10 +268,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #13 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Inception (2010) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -267,10 +289,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #14 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Lord of the Rings: The Two Towers (2002) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -288,10 +310,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #15 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Star Wars: Episode V - The Empire Strikes Back (1980) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -309,10 +331,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #16 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Matrix (1999) <br />
+                  <br /> IMDb 8.7
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -330,10 +352,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #17 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Goodfellas (1990) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -351,10 +373,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #18 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  One Flew Over the Cuckoo's Nest (1975) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -372,10 +394,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #19 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Seven Samurai (1954) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -393,10 +415,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #20 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Spider-Man: No Way Home (2021) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -414,10 +436,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #21 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Se7en (1995) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -435,10 +457,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #22 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Silence of the Lambs (1991) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -456,10 +478,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #23 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  City of God (2002) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -477,10 +499,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #24 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  It's a Wonderful Life (1997) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -498,10 +520,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #25 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Life Is Beautiful (1997) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -519,10 +541,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #26 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Saving Private Ryan (1998) <br />
+                  <br /> IMDb 8.6
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -540,10 +562,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #27 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Star Wars: Episode IV - A New Hope (1977) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -561,10 +583,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #28 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Interstellar (2014) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -582,10 +604,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #29 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Spirited Away (2001) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -603,10 +625,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #30 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Green Mile (1999) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -624,10 +646,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #31 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Parasite (2019) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -645,10 +667,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #32 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Léon: The Professional (1994) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -666,10 +688,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #33 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Hara-Kiri (1962) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -687,10 +709,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #34 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Pianist (2002) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -708,10 +730,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #35 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Terminator 2: Judgment Day (1991) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -729,10 +751,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #36 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Back to the Future (1985) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -750,10 +772,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #37 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Usual Suspects (1995) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -771,10 +793,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #38 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Psycho (1960) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -792,10 +814,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #39 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Lion King (1994) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -813,10 +835,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  40 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Modern Times (1936) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -834,10 +856,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #41 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Grave of the Fireflies (1988) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -855,10 +877,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #42 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  American History X (1998) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -876,10 +898,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #43 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Whiplash (2014) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -897,10 +919,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #44 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Gladiator (2000) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -918,10 +940,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #45 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  City Lights (1931) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -939,10 +961,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #46 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Departed (2006) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -960,10 +982,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #47 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Intouchables (2011) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -981,10 +1003,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #48 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  The Prestige (2006) <br />
+                  <br /> IMDb 8.5
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -1002,10 +1024,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #49 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Casablanca (1942) <br />
+                  <br /> IMDb 8.4
                 </p>
                 <button class="button">View Details</button>
               </div>
@@ -1023,31 +1045,10 @@ function Top50() {
             <div class="overlay">
               <div class="text">
                 <p>
-                  #1 <br />
+                  #50 <br />
                   <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
-                </p>
-                <button class="button">View Details</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="topColumn">
-          <div class="topContainer">
-            <img
-              src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Movie Poster"
-              class="image"
-            />
-            <div class="overlay">
-              <div class="text">
-                <p>
-                  #1 <br />
-                  <br />
-                  The Shawshank Redemption (1994) <br />
-                  <br /> IMDb 9.2
+                  Once Upon a Time in the West (1968) <br />
+                  <br /> IMDb 8.4
                 </p>
                 <button class="button">View Details</button>
               </div>
