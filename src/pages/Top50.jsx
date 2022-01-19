@@ -9,11 +9,17 @@ function Top50() {
           <div class="topContainer">
             <img
               src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
-              alt="Avatar"
+              alt="The Shawshank Redemption"
               class="image"
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -29,6 +35,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -44,6 +56,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -59,6 +77,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -74,6 +98,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -89,6 +119,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -104,6 +140,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -119,6 +161,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -134,6 +182,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -149,6 +203,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -164,6 +224,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -179,6 +245,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -194,6 +266,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -209,6 +287,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -224,6 +308,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -239,6 +329,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -254,6 +350,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -269,6 +371,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -284,6 +392,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -299,6 +413,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -314,6 +434,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -329,6 +455,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -344,6 +476,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -359,6 +497,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -374,6 +518,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -389,6 +539,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -404,6 +560,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -419,6 +581,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -434,6 +602,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -449,6 +623,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -464,6 +644,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -479,6 +665,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -494,6 +686,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -509,6 +707,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -524,6 +728,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -539,6 +749,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -554,6 +770,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -569,6 +791,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -584,6 +812,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -599,6 +833,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -614,6 +854,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -629,6 +875,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -644,6 +896,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -659,6 +917,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -674,6 +938,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -689,6 +959,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -704,6 +980,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -719,6 +1001,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -734,6 +1022,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
@@ -749,6 +1043,12 @@ function Top50() {
             />
             <div class="overlay">
               <div class="text">
+                <p>
+                  #1 <br />
+                  <br />
+                  The Shawshank Redemption (1994) <br />
+                  <br /> IMDb 9.2
+                </p>
                 <button class="button">View Details</button>
               </div>
             </div>
