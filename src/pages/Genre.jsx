@@ -6,7 +6,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn1.vectorstock.com/i/thumb-large/06/80/action-adventure-literature-glyph-icon-vector-40860680.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_adventure_action_cinema_person_torch-256.png"
             alt="Action"
             width="234px"
             height="190px"
@@ -23,7 +23,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn5.vectorstock.com/i/thumb-large/06/79/science-fiction-literature-glyph-icon-vector-40860679.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_futuristic_sci-fi_alien_ufo_cow-256.png"
             alt="Sci-Fi"
             width="234px"
             height="190px"
@@ -40,7 +40,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/78/fantasy-literature-glyph-icon-vector-40860678.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_fantasy_magic_mage_person-256.png"
             alt="Fantacy"
             width="234px"
             height="190px"
@@ -57,13 +57,13 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn2.vectorstock.com/i/thumb-large/06/76/suspense-thriller-literature-glyph-icon-vector-40860676.jpg"
-            alt="Thriller"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_comedy_entertainment_happy_person_laughing-256.png"
+            alt="Comedy"
             width="234px"
             height="190px"
           />
           <div class="cContainer">
-            <h2>Thriller</h2>
+            <h2>Comedy</h2>
             <p>
               <button class="button">Visit</button>
             </p>
@@ -74,7 +74,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/73/paranormal-literature-glyph-icon-vector-40860673.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_horror_scary_fear_spooky_woman-256.png"
             alt="Horror"
             width="234px"
             height="190px"
@@ -91,7 +91,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn3.vectorstock.com/i/thumb-large/06/72/mystery-literature-glyph-icon-vector-40860672.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_mystery_man_detective_person_crime-256.png"
             alt="Mystery"
             width="234px"
             height="190px"
@@ -108,7 +108,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn1.vectorstock.com/i/thumb-large/06/70/crime-literature-glyph-icon-vector-40860670.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_crime_money_action_steal_thief-256.png"
             alt="Crime"
             width="234px"
             height="190px"
@@ -125,7 +125,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/68/historical-literature-glyph-icon-vector-40860668.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_film_history_entertainment_king_castle-256.png"
             alt="Historical"
             width="234px"
             height="190px"
@@ -142,7 +142,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn3.vectorstock.com/i/thumb-large/06/67/western-literature-glyph-icon-vector-40860667.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/film_western_old_west_retro_vintage_cowboy-256.png"
             alt="Western"
             width="234px"
             height="190px"
@@ -159,7 +159,7 @@ function Genre() {
       <div class="column">
         <div class="card">
           <img
-            src="https://cdn4.vectorstock.com/i/thumb-large/06/63/romance-literature-glyph-icon-vector-40860663.jpg"
+            src="https://cdn0.iconfinder.com/data/icons/movie-filled-outline/340/movie_romance_love_couple_romantic_lover_happy-256.png"
             alt="Romance"
             width="234px"
             height="190px"
